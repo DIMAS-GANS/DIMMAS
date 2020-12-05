@@ -59,10 +59,10 @@ def jalan(z):
 		
 #########LOGO#########
 
-"""\033[37;1mAuthor   : https://github.com/RIZKY4/vip
+\033[37;1mAuthor   : https://github.com/RIZKY4/vip
 \033[37;1mRecode   : DIMAS SATRIO
 \033[37;1mFacebook : Dimas Satrio VT
-\033[37;1mWhatsapp : 088293239638"""
+\033[37;1mWhatsapp : 088293239638
 def tik():
 	titik = ['.   ','..  ','... ']
 	for o in titik:
